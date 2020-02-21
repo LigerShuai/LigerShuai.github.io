@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-20T07:07:09.458Z</updated>
+  <updated>2020-02-21T09:45:57.806Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,11 @@
     <link href="http://yoursite.com/2020/02/20/Test/"/>
     <id>http://yoursite.com/2020/02/20/Test/</id>
     <published>2020-02-20T07:05:47.000Z</published>
-    <updated>2020-02-20T07:07:09.458Z</updated>
+    <updated>2020-02-21T09:45:57.806Z</updated>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;Test&lt;/p&gt;
-
-      
+      &lt;p&gt;Test&lt;/p&gt;
     
     </summary>
     
@@ -42,21 +38,22 @@
     <link href="http://yoursite.com/2020/02/18/Hexo%20%E5%8D%87%E7%BA%A7/"/>
     <id>http://yoursite.com/2020/02/18/Hexo%20%E5%8D%87%E7%BA%A7/</id>
     <published>2020-02-18T09:51:30.570Z</published>
-    <updated>2020-02-20T08:23:07.436Z</updated>
+    <updated>2020-02-21T09:45:21.952Z</updated>
     
     <summary type="html">
     
-      
-      
-        &lt;h2 id=&quot;准备&quot;&gt;&lt;a href=&quot;#准备&quot; class=&quot;headerlink&quot; title=&quot;准备&quot;&gt;&lt;/a&gt;准备&lt;/h2&gt;&lt;p&gt;查看 node.js 和 npm 的版本&lt;/p&gt;
-&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;t
-      
+      &lt;h2 id=&quot;准备&quot;&gt;&lt;a href=&quot;#准备&quot; class=&quot;headerlink&quot; title=&quot;准备&quot;&gt;&lt;/a&gt;准备&lt;/h2&gt;&lt;p&gt;查看 node.js 和 npm 的版本&lt;/p&gt;
+&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;meta&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;bash&quot;&gt; node -v&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;v8.11.2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;meta&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;bash&quot;&gt; npm -v&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5.6.0&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;将其升级到最新版本&lt;/p&gt;
     
     </summary>
     
     
       <category term="Software" scheme="http://yoursite.com/categories/Software/"/>
     
+    
+      <category term="Blog" scheme="http://yoursite.com/tags/Blog/"/>
     
   </entry>
   
@@ -65,14 +62,11 @@
     <link href="http://yoursite.com/2018/06/02/hello-world/"/>
     <id>http://yoursite.com/2018/06/02/hello-world/</id>
     <published>2018-06-01T16:43:42.952Z</published>
-    <updated>2018-06-01T16:43:42.952Z</updated>
+    <updated>2020-02-21T09:30:44.989Z</updated>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;Welcome to &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvLw==&quot; title=&quot;https://hexo.io/&quot;&gt;Hexo&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/spa
-      
+      &lt;p&gt;Welcome to &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvLw==&quot; title=&quot;https://hexo.io/&quot;&gt;Hexo&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt;! This is your very first post. Check &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&quot; title=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&quot; title=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt; or you can ask me on &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&quot; title=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt;.&lt;/p&gt;
     
     </summary>
     
