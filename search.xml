@@ -17,7 +17,7 @@
 
 <h2 id="升级-npm"><a href="#升级-npm" class="headerlink" title="升级 npm"></a>升级 npm</h2><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">npm install -g npm</span><br></pre></td></tr></table></figure>
 <p>报错</p>
-<p><img data-src="https://raw.githubusercontent.com/LigerShuai/PictureSpace/master/blog/202002182047.png" alt=""></p>
+<p><img src="https://raw.githubusercontent.com/LigerShuai/PictureSpace/master/blog/202002182047.png" alt=""></p>
 <p>根据提示 <em>Please try running this command again as root/Administrator</em> 可知是权限不够，以管理员权限运行：</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> sudo npm install -g npm</span></span><br><span class="line">Password:</span><br><span class="line">/usr/local/bin/npx -&gt; /usr/local/lib/node_modules/npm/bin/npx-cli.js</span><br><span class="line">/usr/local/bin/npm -&gt; /usr/local/lib/node_modules/npm/bin/npm-cli.js</span><br><span class="line">+ npm@6.13.7</span><br><span class="line">added 326 packages, removed 368 packages and updated 59 packages in 10.401s</span><br></pre></td></tr></table></figure>
 
@@ -44,13 +44,13 @@
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo npm install -g npm-check</span><br><span class="line">npm-check</span><br></pre></td></tr></table></figure>
 
 <p>可以看到，依赖模块的更新信息如下：</p>
-<p><img data-src="https://raw.githubusercontent.com/LigerShuai/PictureSpace/master/blog/202002191856.png" alt=""></p>
+<p><img src="https://raw.githubusercontent.com/LigerShuai/PictureSpace/master/blog/202002191856.png" alt=""></p>
 </li>
 <li><p>使用 npm-upgrade 来更新 hexo 依赖模块</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo npm install -g npm-upgrade</span><br><span class="line">npm-upgrade</span><br></pre></td></tr></table></figure>
 
 <p>这时会有个选择菜单供你选择是否升级依赖包：</p>
-<img data-src="https://raw.githubusercontent.com/LigerShuai/PictureSpace/master/blog/202002191910.png" style="zoom: 25%;" />
+<img src="https://raw.githubusercontent.com/LigerShuai/PictureSpace/master/blog/202002191910.png" style="zoom: 25%;" />
 
 <p>全部 Yes.</p>
 <p>再使用 <code>npm-check</code> 查看，发现已全部更新。</p>
